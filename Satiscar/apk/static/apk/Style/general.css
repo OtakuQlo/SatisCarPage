@@ -11,3 +11,28 @@ h4{
     height: 400px;
 
 }
+
+
+.my-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .my-button:hover {
+    background-color: #45a049;
+  }
+  .my-button:active {
+    background-color: #3e8e41;
+  }
+
+.foto{
+    max-width: 300px;
+    max-height: 300px;
+}
+
+.link{
+    margin-top: 50px;
+}
